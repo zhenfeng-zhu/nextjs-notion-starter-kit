@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Awesome Fenix',
-  domain: 'fenix.vercel.app',
+  domain: '0xfenix.vercel.app',
   author: 'Fenix',
 
   // open graph metadata (optional)
