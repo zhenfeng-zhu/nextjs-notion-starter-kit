@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Fenix',
 
   // open graph metadata (optional)
-  description: '构建我的知识体系',
+  description: '构建我的知识体系!',
 
   // social usernames (optional)
   twitter: 'testzfz',
