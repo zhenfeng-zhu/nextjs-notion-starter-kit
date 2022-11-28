@@ -19,6 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'testzfz',
   github: 'zhenfeng-zhu',
+  zhihu: 'zhu-zhen-feng-96',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
